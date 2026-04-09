@@ -1,4 +1,4 @@
 // Package structmapper provides core functionality.
 //
-// Updated in iteration 4.
+// Updated in iteration 5.
 package main
